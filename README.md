@@ -1,2 +1,2 @@
 # java-spring-app
-Projeto de Estudos 
+Projeto de Estudos.
